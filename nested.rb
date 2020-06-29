@@ -86,7 +86,7 @@ def adding_matz
         }
      }
 
-  programmer_hash[:yukihiro_matsumoto] = "a"
+  programmer_hash[:yukihiro_matsumoto] = "keys"
   programmer_hash[:yukihiro_matsumoto]
 end
 
